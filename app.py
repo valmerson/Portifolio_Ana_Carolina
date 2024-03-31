@@ -203,7 +203,7 @@ def curriculo ():
             </style>
             <img class="imagens2" src="https://raw.githubusercontent.com/valmerson/Portifolio_Ana_Carolina/main/static/qualificacoes_carol.jpg" alt="Imagem com as qualificações por tipo. Inglês (IELTS): fluente, espanhol (SIELE): fluente, francês: básico. Canva: avançado. Photoshop: intermediário. Indesign: avançado. Premiere: básico. Word: especialista. Excel: intermediário. Power Point: avançado. Wordpress: avançado.">
             
-                        <p><button><a href="/">HOME</a></button> <button><a href="/portfolio">PORTIFOLIO</a></button> </p>
+                        <p><button><a href="/">Voltar para a página inicial</a></button> <button><a href="/portfolio">Portifólio</a></button> </p>
 
    </body>
 </html>
