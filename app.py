@@ -27,7 +27,7 @@ def index():
     <h1>Sobre mim</h1>
     <style>.imagens {position: absolute; top: 40px; right: 30px;}         
     </style>
-    <img class="imagens" src="https://raw.githubusercontent.com/elsavillon/site_automacao_grupo_5/main/static/fotoperfil.png" alt="Foto de Ana Carolina, uma mulher branca, de cabelos castanhos na altura do ombro e óculos de grau">
+    <img class="imagens" src="https://raw.githubusercontent.com/valmerson/Portifolio_Ana_Carolina/main/static/fotoperfil.png" alt="Foto de Ana Carolina, uma mulher branca, de cabelos castanhos na altura do ombro e óculos de grau">
 
         <h2>Sou jornalista e produzo conteúdo para mídias digitais</h2>
         <text>Possuo graduação em <b>Jornalismo</b> pela <b>PUC-SP</b>, <b>pós-graduação</b>
@@ -101,7 +101,7 @@ def portifolio ():
     <body> 
     <h1>Portfólio</h1>
         <h2>Trabalhos recentes</h2>
-            <img src="https://raw.githubusercontent.com/elsavillon/site_automacao_grupo_5/main/static//logos.jpg" alt="Régua de logotipos com os logos Bandnews, Fenametro Federação Nacional dos Metroviários, Mulheres do PSOL, Salonline, Sechat e Chicas Poderosas" width="440" height="180"><p>
+            <img src="https://raw.githubusercontent.com/valmerson/Portifolio_Ana_Carolina/main/static//logos.jpg" alt="Régua de logotipos com os logos Bandnews, Fenametro Federação Nacional dos Metroviários, Mulheres do PSOL, Salonline, Sechat e Chicas Poderosas" width="440" height="180"><p>
         <h3>Conheça alguns projetos em que trabalhei e veja exemplos de materiais produzidos: </h3>
         <p>
         <h2>BandNews TV</h2> 
@@ -109,12 +109,12 @@ def portifolio ():
           Participei da cobertura das Eleições de 2022, e construí estratégias de cobertura para os debates eleitorais promovidos pelo Grupo Bandeirantes.</text>
         <title>bandnews</title>
         <p>
-            <img src="https://raw.githubusercontent.com/elsavillon/site_automacao_grupo_5/main/static//bandnews1.png" alt="Print de publicação no facebook com cena do debate presidenciável de 2022 com os candidatos Lula à esquerda e Bolsonaro à direita. No rodapé direito, há janela com o intérprete de libras" width="400" height="250">
+            <img src="https://raw.githubusercontent.com/valmerson/Portifolio_Ana_Carolina/main/static//bandnews1.png" alt="Print de publicação no facebook com cena do debate presidenciável de 2022 com os candidatos Lula à esquerda e Bolsonaro à direita. No rodapé direito, há janela com o intérprete de libras" width="400" height="250">
         </p>    
             <h2>Fenametro</h2> 
         <text>Produzo conteúdo para as redes sociais da entidade e reportagens sobre lutas sindicais. Desenvolvo estratégia, conteúdo, texto, edição de imagens e vídeos.</text>
         <p>
-          <img src="https://raw.githubusercontent.com/elsavillon/site_automacao_grupo_5/main/static//fenametro.png" alt="Print do portal da Fenametro com manchete Greve do Metrô de MG exige revogação de leilão e garantia do trabalho dos metroviários">
+          <img src="https://raw.githubusercontent.com/valmerson/Portifolio_Ana_Carolina/main/static//fenametro.png" alt="Print do portal da Fenametro com manchete Greve do Metrô de MG exige revogação de leilão e garantia do trabalho dos metroviários">
         </p>
         <h3>Veja mais exemplos de reportagens:</h3>
         <text>  
@@ -124,13 +124,13 @@ def portifolio ():
           <h2>Mulheres do PSOL</h2> 
         <text>Produzo conteúdo para as redes sociais das Mulheres do PSOL nas temáticas de gênero, feminismo e direitos humanos. Desenvolvo estratégia, conteúdo, texto e orientação de design para produção de materiais gráficos.</text>
         <p>
-          <img src="https://raw.githubusercontent.com/elsavillon/site_automacao_grupo_5/main/static//mulheresdopsol1.png" alt="Print de publicação no Instagram sobre os 91 anos da conquista do voto feminino no Brasil com foto de época com homens e mulheres em preto e branco">
+          <img src="https://raw.githubusercontent.com/valmerson/Portifolio_Ana_Carolina/main/static//mulheresdopsol1.png" alt="Print de publicação no Instagram sobre os 91 anos da conquista do voto feminino no Brasil com foto de época com homens e mulheres em preto e branco">
         </p>   
         <h2>Chicas Poderosas</h2> 
         <text>Participei da equipe que coordenou o Laboratório de Histórias Poderosas Brasil, um projeto da Chicas Poderosas com o apoio da Open Society Foundations em 2021. Atuei na gestão de projetos e logística. O projeto teve como foco a produção de reportagens para abordar a crise do cuidado no Brasil enfrentada por milhões de mulheres durante a pandemia.</text>
         <a href="https://www.chicaspoderosas.org/noticias/historiasbrasil/">Conheça o projeto.</a>
         <p>
-          <img src="https://raw.githubusercontent.com/elsavillon/site_automacao_grupo_5/main/static//chicas.png" alt="Print de matéria com o título Histórias sobre como as mulheres enfrentaram a crise do cuidado no Brasil".>
+          <img src="https://raw.githubusercontent.com/valmerson/Portifolio_Ana_Carolina/main/static//chicas.png" alt="Print de matéria com o título Histórias sobre como as mulheres enfrentaram a crise do cuidado no Brasil".>
         </p>
         <br>
        </div>
@@ -196,12 +196,12 @@ def curriculo ():
             <title>contatos</title>
             <style>.imagens {position: absolute; top: 40px; right: 50px;}         
             </style>
-            <img class="imagens" src="https://raw.githubusercontent.com/elsavillon/site_automacao_grupo_5/main/static/contatos_carol.jpg" alt="e-mail carol00andrade@gmail.com, telefone (11) 998655052, linkedin https://www.linkedin.com/in/carol00andrade, endereço Sumarezinho, São Paulo - SP">
+            <img class="imagens" src="https://raw.githubusercontent.com/valmerson/Portifolio_Ana_Carolina/main/static/contatos_carol.jpg" alt="e-mail carol00andrade@gmail.com, telefone (11) 998655052, linkedin https://www.linkedin.com/in/carol00andrade, endereço Sumarezinho, São Paulo - SP">
 
             <title>contatos</title>
             <style>.imagens2 {position: absolute; top: 390px; right: 50px;}         
             </style>
-            <img class="imagens2" src="https://raw.githubusercontent.com/elsavillon/site_automacao_grupo_5/main/static/qualificacoes_carol.jpg" alt="Imagem com as qualificações por tipo. Inglês (IELTS): fluente, espanhol (SIELE): fluente, francês: básico. Canva: avançado. Photoshop: intermediário. Indesign: avançado. Premiere: básico. Word: especialista. Excel: intermediário. Power Point: avançado. Wordpress: avançado.">
+            <img class="imagens2" src="https://raw.githubusercontent.com/valmerson/Portifolio_Ana_Carolina/main/static/qualificacoes_carol.jpg" alt="Imagem com as qualificações por tipo. Inglês (IELTS): fluente, espanhol (SIELE): fluente, francês: básico. Canva: avançado. Photoshop: intermediário. Indesign: avançado. Premiere: básico. Word: especialista. Excel: intermediário. Power Point: avançado. Wordpress: avançado.">
             
                         <p><button><a href="/">HOME</a></button> <button><a href="/portfolio">PORTIFOLIO</a></button> </p>
 
