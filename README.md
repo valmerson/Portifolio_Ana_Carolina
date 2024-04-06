@@ -1,1 +1,1 @@
-This is a repository dedicated to storing the backend code of journalist Ana Carolina Andrade's portfolio page. 
+Este é um repositório dedicado a armazenar o código de backend da página de portfólio da jornalista Ana Carolina Andrade, parte da entrega do trabalho final da Disciplina Algoritmos de Automação do Master em Jornalismo de Dados, Automação e Data Storytelling do INSPER, ministrada por Alvaro Justen.
